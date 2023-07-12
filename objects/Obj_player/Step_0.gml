@@ -34,15 +34,13 @@ sprite_index = spr_bat_man_running
 image_xscale = -1;
 }
 
-else if keyboard_check(ord("W")){
-y = y-spd;
-sprite_index = spr_bat_man_salto
-}
-
 else if keyboard_check(ord("S")){
 y = y+spd;
 sprite_index = spr_bat_man_salto
 }
+
+
+
 
 
 
