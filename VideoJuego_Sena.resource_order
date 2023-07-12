@@ -15,12 +15,15 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"bat","order":3,"path":"folders/Sprites/bat.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+    {"name":"Sprite4","order":2,"path":"sprites/Sprite4/Sprite4.yy",},
     {"name":"Piedraa","order":1,"path":"sprites/Piedraa/Piedraa.yy",},
-    {"name":"Lava","order":2,"path":"objects/Lava/Lava.yy",},
-    {"name":"Piedra","order":1,"path":"objects/Piedra/Piedra.yy",},
+    {"name":"spr_bat_man_running","order":1,"path":"sprites/spr_bat_man_running/spr_bat_man_running.yy",},
+    {"name":"Lava","order":1,"path":"objects/Lava/Lava.yy",},
+    {"name":"Obj_player","order":4,"path":"objects/Obj_player/Obj_player.yy",},
+    {"name":"spr_bat_man_salto","order":2,"path":"sprites/spr_bat_man_salto/spr_bat_man_salto.yy",},
     {"name":"Lavaa","order":2,"path":"sprites/Lavaa/Lavaa.yy",},
   ],
 }
